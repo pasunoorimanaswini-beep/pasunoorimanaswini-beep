@@ -1,16 +1,31 @@
-## Hi there 👋
+Hey, I'm Manaswini 👋
 
-<!--
-**pasunoorimanaswini-beep/pasunoorimanaswini-beep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CSE Student | Full-Stack Developer | AI/ML & DevOps Enthusiast
 
-Here are some ideas to get you started:
+💻 Building projects that solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Exploring Java, MERN Stack, AI/ML, Linux & DevOps.
+
+🚀 Interested in software development, cloud technologies and automation.
+
+🛠️ Tech Stack
+
+- Languages: Java, Python, JavaScript
+- Frontend: HTML, CSS, React
+- Backend: Node.js, Express
+- Tools: Git, GitHub, Linux
+- Exploring: DevOps, Cloud & AI/ML
+
+🚀 Featured Projects
+
+- LEGACY — AI-powered institutional knowledge management platform.
+- Healthcare Disease Risk Prediction — Explainable AI for disease risk analysis.
+- HomelyHub — Property booking platform with an AI trip planner.
+
+📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/pasunoori-manaswini-385873334?utm_source=share_via&utm_content=profile&utm_medium=member_android
+
+---
+
+⭐ Always learning. Always building.
