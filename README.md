@@ -31,6 +31,6 @@ CSE Student | Full-Stack Developer | AI/ML & DevOps Enthusiast
 ⭐ Always learning. Always building.
 📊 GitHub Stats
 
-"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=pasunoorimanaswini-beep&show_icons=true&theme=tokyonight)
+"GitHub Stats"! (https://github-readme-stats.vercel.app/api?username=pasunoorimanaswini-beep&show_icons=true&theme=tokyonight)
 
-"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=pasunoorimanaswini-beep&layout=compact&theme=tokyonight)
+"Top Languages"! (https://github-readme-stats.vercel.app/api/top-langs/?username=pasunoorimanaswini-beep&layout=compact&theme=tokyonight)
