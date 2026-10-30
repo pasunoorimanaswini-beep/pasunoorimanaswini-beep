@@ -25,15 +25,15 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 B.Tech in Computer Science Engineering, **CGPA 8.30**
+- 🎓 B.Tech in Computer Science Engineering, **CGPA 8.20**
 - 🛠️ Full-stack development with **MongoDB, Express, React, Node.js**
-- 🤖 Interested in applying **AI/NLP** to real problems like knowledge reuse and recommendations
+- 🤖 Interested in applying **AI** to real problems like knowledge reuse and recommendations
 - 🏁 Built an **AI-powered marketplace for artisans** for the SIH 2026 internal round
 
 ## 🧰 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,html,css,js,tailwind,git,github,vscode,postman" alt="Tech stack icons">
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,html,css,js,git,github, Devops(basics),vscode, postgreesql" alt="Tech stack icons">
 </p>
 
 ## 🚀 Featured Projects
