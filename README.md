@@ -50,9 +50,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/?style=for-the-badge&logo=github&color=2F81F7" alt="Followers">
-  <img src="https://img.shields.io/github/stars/YOUR-USERNAME?style=for-the-badge&logo=github&color=yellow" alt="Stars">
-  <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&label=Profile%20Views&style=for-the-badge&color=blueviolet" alt="Profile views">
+  <img src="https://img.shields.io/github/followers/https://github.com/pasunoorimanaswini-beep?style=for-the-badge&logo=github&color=2F81F7" alt="Followers">
+  <img src="https://img.shields.io/github/stars/https://github.com/pasunoorimanaswini-beepstyle=for-the-badge&logo=github&color=yellow" alt="Stars">
+  <img src="https://komarev.com/ghpvc/?username=https://github.com/pasunoorimanaswini-beep&label=Profile%20Views&style=for-the-badge&color=blueviolet" alt="Profile views">
 </p>
 
 <p align="center">
