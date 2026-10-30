@@ -49,9 +49,12 @@
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=pasunoorimanaswini-beep&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasunoorimanaswini-beep&layout=compact&hide_border=true" alt="Top languages">
+  <img src="https://img.shields.io/github/followers/YOUR-USERNAME?style=for-the-badge&logo=github&color=2F81F7" alt="Followers">
+  <img src="https://img.shields.io/github/stars/YOUR-USERNAME?style=for-the-badge&logo=github&color=yellow" alt="Stars">
+  <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&label=Profile%20Views&style=for-the-badge&color=blueviolet" alt="Profile views">
 </p>
 
 <p align="center">
