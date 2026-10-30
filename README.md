@@ -16,7 +16,7 @@
   <a href="mailto:pasunoorimanaswini@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://pasunoorimanaswini-beep.github.io/">
+  <a href="https://pasunoorimanaswini-beep.github.io/pasunoorimanaswini-beep-.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio">
   </a>
 </p>
@@ -29,7 +29,6 @@
 - 🛠️ Full-stack development with **MongoDB, Express, React, Node.js**
 - 🤖 Interested in applying **AI/NLP** to real problems like knowledge reuse and recommendations
 - 🏁 Built an **AI-powered marketplace for artisans** for the SIH 2026 internal round
-- 🌱 Currently improving my skills in system design and AI integration
 
 ## 🧰 Tech Stack
 
@@ -43,20 +42,20 @@
 |---------|--------------|------|
 | **LEGACY** | AI-driven academic memory and collaboration system. Uses NLP similarity detection to flag duplicate projects, with skill profiles, skill-gap matching and mentor matching across departments. | MERN, NLP |
 | **AI-Powered Artisan Marketplace** | Marketplace connecting artisans with buyers, built for the SIH 2026 internal round. | MERN, AI |
-| **GitHub Project Explorer** | Explore open-source projects with the GitHub API, with charts and a clean responsive UI. | React, GitHub API, Chart.js, Tailwind |
+| **GitHub Project Explorer** | Explore open-source projects with the GitHub API, with charts and a responsive UI. | React, GitHub API, Chart.js, Tailwind |
 | **HomelyHub** | Full-stack web application built with the MERN stack. | MERN |
 | **Movie Recommendation System** | Recommends movies to users based on their preferences. | Recommendation, ML |
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/https://github.com/pasunoorimanaswini-beep?style=for-the-badge&logo=github&color=2F81F7" alt="Followers">
-  <img src="https://img.shields.io/github/stars/https://github.com/pasunoorimanaswini-beepstyle=for-the-badge&logo=github&color=yellow" alt="Stars">
-  <img src="https://komarev.com/ghpvc/?username=https://github.com/pasunoorimanaswini-beep&label=Profile%20Views&style=for-the-badge&color=blueviolet" alt="Profile views">
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=pasunoorimanaswini-beep&hide_border=true" alt="GitHub streak">
+  <a href="https://github.com/pasunoorimanaswini-beep">
+    <img src="https://img.shields.io/github/followers/pasunoorimanaswini-beep?style=for-the-badge&logo=github&color=2F81F7" alt="Followers">
+  </a>
+  <a href="https://github.com/pasunoorimanaswini-beep?tab=repositories">
+    <img src="https://img.shields.io/github/stars/pasunoorimanaswini-beep?style=for-the-badge&logo=github&color=yellow" alt="Stars">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=pasunoorimanaswini-beep&label=Profile%20Views&style=for-the-badge&color=blueviolet" alt="Profile views">
 </p>
 
 ---
