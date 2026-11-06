@@ -25,7 +25,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 B.Tech in Computer Science Engineering, **CGPA 8.20**
+- 🎓 B.Tech in Computer Science Engineering, **CGPA 8.30**
 - 🛠️ Full-stack development with **MongoDB, Express, React, Node.js**
 - 🤖 Interested in applying **AI** to real problems like knowledge reuse and recommendations
 - 🏁 Built an **AI-powered marketplace for artisans** for the SIH 2026 internal round
